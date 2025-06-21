@@ -1,0 +1,52 @@
+REMARQUE GENERALE : il y'a aucun indicateur de satisfaction. donc difficile d'évaluer la popularité ; toutefois on as le nb de review etc..
+Donc mis en avant par AIRBNB, c'est l'indicateur sur lequel on se basera. 
+Les hypothèses suivantes serviront donc à explorer ce qui peut causer un nombre élevé de review. Soit mis en avant par AIRBNB / soit bon logement tout court ^^ On peut pas différencier les deux mais voila.
+ce postulat est un peu nul, mais on s'en fout que l'idée soit pertinente, ce qui compte c'est ce qu'on en fait. Voila merci
+
+
+Premier point, si on se base sur les review, faire des moyennes, pondérer, faire des proportions etc... 
+Est ce-que des algos du cours, aideraient à faire ca ? si ui : top.
+
+Champs intéressant : 
+- Host id verif : si ca rend les logements plus attractifs ? si ils ont plus d'interactions avec les gens …
+- neighbourhood : c'est quoi le + ? = le plus demandé ? etc... 
+- cancel Policy : est ce que ca rend réticent à louer ? Ou au contraire ca sécurise ? 
+- nb de review
+
+Hypothèses : 
+
+Les logements à Manhattan sont le plus consulté 
+=> c'est la zone la plus populaire.
+Faire un graph qui compare les review entre Manhattan et les autres. Un vs all
+Et un vs all together
+
+
+Les logements avec des politiques d'annulation flexibles sont plus review 
+=> C'est un critère de filtres pour les gens qui recherchent. Donc si il y'a un lien de causalité entre le nb de reveiw et les politiques d'annulation flexibles, ca veut dire que les gens recherchent ca.
+
+
+Les prix moyens / dans la moyenne sont les plus attractifs 
+=> postulat :  les gens avec revenus moyen sont la majorité. Autrement dit, sur ceux qui cherchent logement, les plus review sont ceux qui ont un prix dans la moyenne
+Taper dans la moyenne des reveiw +/- 5%~, sortir les prix associés. Sortir min / max et mean. 
+
+
+Utilisateurs vérifiés sont mieux mis en avant sur AIRBNB (donc plus de review) => Point de sécurité, ca attire les gens ? Même point que pour politique d'annulation. Est ce que les gens filtres leurs recherhes la dessus ?
+
+
+Quartier proche des lieux touristiques sont plus consultés 
+=> Les lieux touristiques ? genre jsp l'empire state building, c'est dans quelle quartier ? est ce que ce quartie fait partie des plus review ? 
+
+
+les logements de types appartement sont les plus recherches : 
+On est à NYC, les appartements entiers sont les plus recherchés. Type loft ou jsp
+
+
+Bref, y'a plein d'idées comme ca. 
+
+
+Algos et truc à utiliser (mentionné dans le cours) : 
+- Courbure Kurtosis 
+- Faire de variables géo (sur les quartier ls plus review de nyc par exemple)
+- k-means ? 
+- ACP
+
