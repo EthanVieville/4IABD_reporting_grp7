@@ -20,6 +20,7 @@ Les logements à Manhattan sont le plus consulté
 Faire un graph qui compare les review entre Manhattan et les autres. Un vs all
 Et un vs all together
 
+FAIRE UNE HEAT MAP CA PEUT ETRE TROP MARRANT
 
 Les logements avec des politiques d'annulation flexibles sont plus review 
 => C'est un critère de filtres pour les gens qui recherchent. Donc si il y'a un lien de causalité entre le nb de reveiw et les politiques d'annulation flexibles, ca veut dire que les gens recherchent ca.
