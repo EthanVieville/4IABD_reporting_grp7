@@ -24,7 +24,6 @@ Et un vs all together
 Les logements avec des politiques d'annulation flexibles sont plus review 
 => C'est un critère de filtres pour les gens qui recherchent. Donc si il y'a un lien de causalité entre le nb de reveiw et les politiques d'annulation flexibles, ca veut dire que les gens recherchent ca.
 
-
 Les prix moyens / dans la moyenne sont les plus attractifs 
 => postulat :  les gens avec revenus moyen sont la majorité. Autrement dit, sur ceux qui cherchent logement, les plus review sont ceux qui ont un prix dans la moyenne
 Taper dans la moyenne des reveiw +/- 5%~, sortir les prix associés. Sortir min / max et mean. 
